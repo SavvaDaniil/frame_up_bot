@@ -1,0 +1,7 @@
+version: "0"
+
+services:
+  frame-up-bot:
+    container_name: "frame-up-bot"
+    build: .
+  

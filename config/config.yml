@@ -1,0 +1,6 @@
+TG:
+  Token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Auth:
+  SecretKey: secret...............
+UserWhiteList: [000, 000]
+URL: https://
